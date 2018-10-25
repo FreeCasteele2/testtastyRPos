@@ -1,0 +1,2 @@
+# testtastyRPos
+Test tasty repository
